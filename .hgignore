@@ -1,0 +1,10 @@
+syntax: glob
+*.sln
+*.VC.db
+*.VC.opendb
+Intermediate
+DerivedDataCache
+Binaries
+Saved
+.vs
+*.log
